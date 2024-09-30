@@ -6,6 +6,6 @@ Um firewall simples em Python para Linux, que permite adicionar regras para perm
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Davilinux/simple-firewall.git
+   git clone https://github.com/Davideveloper89/simple-firewall.git
    cd simple-firewall
    Execute o script sudo python3 firewall-simple.py
